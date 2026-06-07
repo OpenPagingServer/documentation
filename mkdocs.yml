@@ -1,0 +1,54 @@
+site_name: Open Paging Server
+site_url: https://docs.openpagingserver.org
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Main Website: https://www.openpagingserver.org
+  - Welcome to Open Paging Server: index.md
+  - Introduction:
+      - Open Paging Server vs Commercial Products: introduction/commercial.md
+  - Installation:
+      - Linux: install/linux.md
+      - First-time setup: install/oobe.md
+
+  - Endpoints:
+      - Cisco:
+          - Overview: endpoints/cisco/index.md
+          - Enterprise:
+              - Overview: endpoints/cisco/enterprise/index.md
+              - Auth URL: endpoints/cisco/enterprise/authurl.md
+
+  - Administration:
+      - Web:
+        - Reverse proxies: admin/web/reverseproxy.md
+site_dir: /var/www/opsdocs
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
