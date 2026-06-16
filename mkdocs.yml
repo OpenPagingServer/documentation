@@ -32,9 +32,10 @@ nav:
   - Welcome to Open Paging Server: index.md
   - Introduction:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
-  - Installation:
-      - Linux: install/linux.md
-      - First-time setup: install/oobe.md
+  - Getting Started:
+      - Install:
+        - Linux: gettingstarted/install/linux.md
+      - First-time setup: gettingstarted/oobe.md
 
   - Endpoints:
       - Cisco:
