@@ -122,7 +122,7 @@ If you manually created the database rather than running database_initialization
 
 .env should contain the following:
 
-``
+```
 DB_HOST='127.0.0.1'
 DB_USER='YOURDBUSERHERE'
 DB_PASS='YOURDBPASSHERE'
@@ -131,7 +131,7 @@ DEBUG=false
 WEB_REVERSE_PROXY_ALLOWED=127.0.0.1
 API_REVERSE_PROXY_ALLOWED=127.0.0.1
 DEMO_MODE=false
-``
+```
 
 You can edit the parameters to fit your needs
 
@@ -150,7 +150,7 @@ If running outside root, ensure the openpagingserver user has privileged port ac
 ## Adding and starting systemd service 
 You can use systemd to launch Open Paging Server when the server boots. Create /etc/systemd/system/openpagingserver.service with
 
-``
+```ini
 [Unit]
 Description=Open-source VoIP public address & mass notification system
 After=network.target
@@ -166,7 +166,7 @@ Environment=PYTHONUNBUFFERED=1
 
 [Install]
 WantedBy=multi-user.target
-``
+```
 
 Change user to the user you are running Open Paging Server under (e.g. openpagingserver, root)
 
