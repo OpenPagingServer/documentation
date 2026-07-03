@@ -157,7 +157,7 @@ After=network.target
 
 [Service]
 Type=simple
-ExecStart=/opt/OpenpagingServer/index.py
+ExecStart=/opt/OpenPagingServer/index.py
 WorkingDirectory=/opt/OpenPagingServer
 Restart=always
 RestartSec=5
