@@ -34,7 +34,8 @@ nav:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
   - Getting Started:
       - Install:
-        - Linux: gettingstarted/install/linux.md
+        - Linux (automatic): gettingstarted/install/linux.md
+        - Linux (manual): gettingstarted/install/linux-man.md
       - First-time setup: gettingstarted/oobe.md
 
   - Endpoints:
