@@ -58,7 +58,7 @@ Now click `Save Cisco Settings`
 
 Your phones should soon auto-populate in `Manage Endpoints`. If it's been at least twice as long as the sync interval and they still don't show up, check your configuration for any errorss.
 
-# Adding a SIP trunk
+## Step 4: Adding a SIP trunk
 
 Now that Cisco Unified Communications Manager phones are synced with Open Paging Server, we can add a SIP trunk which will let us access Dial Plan Extensions on Open Paging Server from CUCM. Dial plan extensions let you send pages or messages right from your telephone by dialing a number. We will only cover adding the SIP trunk. You can learn more in Administration > Endpoints > SIP Trunks > Dial Plan Extensions.
 
