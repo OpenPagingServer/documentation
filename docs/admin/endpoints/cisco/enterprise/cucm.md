@@ -4,7 +4,7 @@ If you are using Cisco Unified Communications Manager, you can connect Open Pagi
 
 If you are not using Cisco Unified Communications Manager, you can skip this step. 
 
-Before continuing, ensure that you completed the [[pre-requisites]].
+Before continuing, ensure that you completed the [[prerequisites]].
 
 ## Step 1: Enable Cisco AXL Web Service
 
