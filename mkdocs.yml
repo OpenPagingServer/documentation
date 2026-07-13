@@ -38,16 +38,15 @@ nav:
         - Linux (manual): gettingstarted/install/linux-man.md
       - First-time setup: gettingstarted/oobe.md
 
-  - Endpoints:
-      - Cisco:
-          - Overview: endpoints/cisco/index.md
-          - Enterprise:
-              - Overview: endpoints/cisco/enterprise/index.md
-              - Auth URL: endpoints/cisco/enterprise/authurl.md
-
   - Administration:
       - Web:
         - Reverse proxies: admin/web/reverseproxy.md
+      - Endpoints:
+        - Cisco:
+          - Overview: admin/endpoints/cisco/index.md
+            - Enterprise: admin/endpoints/cisco/enterprise/index.md
+              - Pre-requisites: admin/endpoints/cisco/enterprise/requisites.md
+              - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
 site_dir: /var/www/opsdocs
 
 markdown_extensions:

@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "d95400ab3a7c2e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1a2e5ae6c2bcba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd756204d6e1468c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cucm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b59281928dcaeddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd088b3080c978db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700d96059c359fe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ea567354b590cf97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4b823a247d3a8abe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 632.5
+  },
+  "right": {
+    "id": "a2db3d9a8050e78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c12d5f4beb5407f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7baa7c64885c1a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cucm"
+            }
+          },
+          {
+            "id": "60dfca85129c59a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cucm"
+            }
+          },
+          {
+            "id": "df00215bb5f7bd59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ec1da8c0b96d947",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ec83f26184acddc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cucm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cd756204d6e1468c",
+  "lastOpenFiles": [
+    "docs/admin/endpoints/cisco/enterprise/pre-requisites.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "docs/admin/endpoints/cisco/enterprise/chrome_khqHxlrOSs.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS-2.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS.png",
+    "docs/admin/endpoints/cisco/enterprise/OPS-SIPTrunks-IP-CUCM.png",
+    "docs/admin/endpoints/cisco/enterprise/index.md",
+    "docs/index.md",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png",
+    "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-Settings.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-ApplicationUserConfiguration.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ServiceActivation-AXLWebService.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ContorlCenterFeatureServices-AXLWebService.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ContorlCenterFeatureServices-Start.png",
+    "CiscoUnifiedServiceability-ControlCenterFeatureServices-SelectServer.md",
+    "docs/introduction/commercial.md",
+    "docs/gettingstarted/oobe.md"
+  ]
+}
