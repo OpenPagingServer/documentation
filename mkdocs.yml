@@ -30,23 +30,27 @@ extra_css:
 nav:
   - Main Website: https://www.openpagingserver.org
   - Welcome to Open Paging Server: index.md
+
   - Introduction:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
+
   - Getting Started:
       - Install:
-        - Linux (automatic): gettingstarted/install/linux.md
-        - Linux (manual): gettingstarted/install/linux-man.md
+          - Linux (automatic): gettingstarted/install/linux.md
+          - Linux (manual): gettingstarted/install/linux-man.md
       - First-time setup: gettingstarted/oobe.md
 
   - Administration:
       - Web:
-        - Reverse proxies: admin/web/reverseproxy.md
+          - Reverse proxies: admin/web/reverseproxy.md
       - Endpoints:
-        - Cisco:
-          - Overview: admin/endpoints/cisco/index.md
-            - Enterprise: admin/endpoints/cisco/enterprise/index.md
-              - Pre-requisites: admin/endpoints/cisco/enterprise/requisites.md
-              - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
+          - Cisco:
+              - Overview: admin/endpoints/cisco/index.md
+              - Enterprise:
+                  - Overview: admin/endpoints/cisco/enterprise/index.md
+                  - Pre-requisites: admin/endpoints/cisco/enterprise/requisites.md
+                  - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
+
 site_dir: /var/www/opsdocs
 
 markdown_extensions:
