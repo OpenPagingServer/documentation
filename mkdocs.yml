@@ -48,7 +48,7 @@ nav:
               - Overview: admin/endpoints/cisco/index.md
               - Enterprise:
                   - Overview: admin/endpoints/cisco/enterprise/index.md
-                  - Pre-requisites: admin/endpoints/cisco/enterprise/requisites.md
+                  - Pre-requisites: admin/endpoints/cisco/enterprise/prequisites.md
                   - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
 
 site_dir: /var/www/opsdocs
