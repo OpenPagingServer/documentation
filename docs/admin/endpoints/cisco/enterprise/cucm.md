@@ -17,6 +17,7 @@ Go to `Cisco Unified Serviceability` > `Tools` > `Service Activation`. Select yo
 Under `Database and Admin Services`, check `Cisco AXL Web Service`, and click `Save`. Repeat this process for all subscribers.
 
 ![[CiscoUnifiedServiceability-ServiceActivation-AXLWebService.png]]
+
 ![[CiscoUnifiedServiceability-ServiceActivation-Save.png]]
 
 The service should start automatically, however to check, go to `Cisco Unified Serviceability` > `Tools` > `Control Center - Feature Services`. And ensure that the service is running.
@@ -25,7 +26,9 @@ The service should start automatically, however to check, go to `Cisco Unified S
 
 Under `Database and Admin Services`, select `Cisco AXL Web Service` and click `Start` if it's not showing as `Activated`.
 
-![[CiscoUnifiedServiceability-ContorlCenterFeatureServices-AXLWebService.png]]![[CiscoUnifiedServiceability-ContorlCenterFeatureServices-Start.png]]
+![[CiscoUnifiedServiceability-ContorlCenterFeatureServices-AXLWebService.png]]
+
+![[CiscoUnifiedServiceability-ContorlCenterFeatureServices-Start.png]]
 
 ## Step 2: Create Application User
 

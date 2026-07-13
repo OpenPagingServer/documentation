@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prerequisites"
+              "title": "cucm"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prerequisites"
+              "title": "Backlinks for cucm"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from prerequisites"
+              "title": "Outgoing links from cucm"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prerequisites"
+              "title": "Outline of cucm"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/chrome_khqHxlrOSs.png",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS-2.png",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS.png",
