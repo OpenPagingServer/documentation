@@ -12,13 +12,13 @@ If you have not already, you will need to enable the Cisco AXL Web Service.
 
 Go to `Cisco Unified Serviceability` > `Tools` > `Service Activation`. Select your publisher. If you want Open Paging Server to also sync from your subscriber(s) if the publisher is down, you can enable the Cisco AXL Web Service for those too.
 
-![[CiscoUnifiedServiceability-ServiceActivation-SelectServer.png]]
+![](CiscoUnifiedServiceability-ServiceActivation-SelectServer.png)
 
 Under `Database and Admin Services`, check `Cisco AXL Web Service`, and click `Save`. Repeat this process for all subscribers.
 
-![[CiscoUnifiedServiceability-ServiceActivation-AXLWebService.png]]
+![](CiscoUnifiedServiceability-ServiceActivation-AXLWebService.png)
 
-![[CiscoUnifiedServiceability-ServiceActivation-Save.png]]
+![](CiscoUnifiedServiceability-ServiceActivation-Save.png)
 
 The service should start automatically, however to check, go to `Cisco Unified Serviceability` > `Tools` > `Control Center - Feature Services`. And ensure that the service is running.
 
@@ -26,9 +26,9 @@ The service should start automatically, however to check, go to `Cisco Unified S
 
 Under `Database and Admin Services`, select `Cisco AXL Web Service` and click `Start` if it's not showing as `Activated`.
 
-![[CiscoUnifiedServiceability-ContorlCenterFeatureServices-AXLWebService.png]]
+![](CiscoUnifiedServiceability-ContorlCenterFeatureServices-AXLWebService.png)
 
-![[CiscoUnifiedServiceability-ContorlCenterFeatureServices-Start.png]]
+![](CiscoUnifiedServiceability-ContorlCenterFeatureServices-Start.png)
 
 ## Step 2: Create Application User
 
@@ -36,13 +36,13 @@ Go to `Cisco Unified CM Administration` > `User Management` > `Application Users
 
 Create a new `User ID`, and choose a password which will go under both `Password`, and `Digest Credentials`. You will need to use these credentials to connect Open Paging Server to CUCM
 
-![[CiscoUnifiedCMAdministration-ApplicationUserConfiguration.png]]
+![](CiscoUnifiedCMAdministration-ApplicationUserConfiguration.png)
 
 **You don't need to assign any devices under `Device Information.`** Open Paging Server does not need to control your devices through CUCM. However, as we mentioned earlier in the documentation, we are researching different ways of sending broadcasts to phones, and this may be one of them in the future. But you can always assign phones in the future if this is ever used.
 
 Under `Permissions Information`, click `Add to Access Control Groups`, select `Standard CCM Phone Administration` and click `Add Selected`
 
-![[CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png]]
+![](CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png)
 
 Review the new Application User you created, and click `Save`.
 
@@ -52,7 +52,7 @@ In Open Paging Server, go to `Manage Endpoints`,  `Manage Endpoint Modules`, and
 
 Enable `Sync with Unified Communications Manager (CUCM)`. In `CUCM Server(s)`, enter the IP address of your publisher followed by any subscribers separated by commas. Enter the User ID in `Application User ID` and password in `Application User Password`. You can adjust the `CUCM Sync Interval`, then click `Save Cisco Settings`. 
 
-![[OPS-EndpointModules-CiscoIPPhone-Settings.png]]
+![](OPS-EndpointModules-CiscoIPPhone-Settings.png)
 
 Now click `Save Cisco Settings`
 
@@ -68,7 +68,7 @@ To add a SIP trunk in Open Paging Server, go to `Manage Endpoints` > `+` > `SIP 
 
 You will want to select a `Basic SIP Trunk (IP)`. If you have a SBC or gateway such as CUBE or Asterisk for SIP trunks, you could use a `Inbound-Authenticated SIP Trunk`. However, it's recommend to just trunk CUCM directly. Enter a name and IP Address. Do this for all Unified Call Manager nodes which will be in the Device Pool for Open Paging Server.
 
-![[OPS-SIPTrunks-IP-CUCM.png]]
+![](OPS-SIPTrunks-IP-CUCM.png)
 
 Click `Add Basic SIP Trunk (IP)`
 
@@ -80,8 +80,8 @@ Enter the a `Device Name`, select your `Device Pool`, `SIP Profile`, and use the
 
 <!-- If you are using an Open Paging Server cluster, repeat this process for each node.-->
 
-![[CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS.png]]
-![[CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS-2.png]]
+![](CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS.png)
+![](CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS-2.png)
 
 <!-- If you are using a single Open Paging Sever node and not using a cluster, you can skip the next 2 steps. 
 
@@ -92,11 +92,14 @@ Go to `Call Routing > Route/Hunt > Route List`. Click `Add New` and enter a `Nam
 
 Now go to `Call Routing > Route/Hunt > Route Pattern`. Click `Add New`, and add route pattern(s) that match your Dial Plan Extension(s). It could either be wildcards, or one route pattern per extension. Select <!--either-->your Open Paging Server trunk<!-- ,or your route list if using a cluster--> under `Gateway/Route List`, change `Call Classification` to `OnNet` (recommended), and and assign your `Route Partition` based on your call searching spaces. And click `Save`. 
 
-![[chrome_khqHxlrOSs.png]]
+![](chrome_khqHxlrOSs.png)
 
 Cisco Unified Communications Manager should now fully connected to Open Paging Server. You are now ready to page and send messages to your Cisco IP Phones.
 
 Learn more on how to:
+
 - Manage phones
+
 - Create groups
+
 - Assign Dial Plan Extensions
