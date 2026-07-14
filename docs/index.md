@@ -8,4 +8,4 @@
 
 Open Paging Server is a free & open source public address system that runs on existing VoIP infrastructure. Supporting live paging, bells, mass notification, and much more!
 
-Open Paging Server is easy to install and use. A fully working system can be installed in a matter of minutes either directly on a Linux server or in a Docker container. It's written in Python which allows for great flexibility, and has a comprehensive endpoint ecosystem with official and third-party modules supported by it's SDK.
+Open Paging Server is easy to install and use. A fully working system can be installed in a matter of minutes either directly on a Linux server or in a Docker container. It's written in Python which allows for great flexibility, and has a comprehensive endpoint ecosystem with official and third-party modules supported by it's SDK.v 

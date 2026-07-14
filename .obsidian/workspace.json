@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/createmanual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "createmanual"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/createmanual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for createmanual"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/createmanual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from createmanual"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/createmanual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of createmanual"
             }
           }
         ]
@@ -183,8 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd756204d6e1468c",
+  "active": "700d96059c359fe0",
   "lastOpenFiles": [
+    "docs/admin/endpoints/cisco/enterprise/8741-LockdownText.gif",
+    "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-Settings.png",
+    "docs/admin/endpoints/cisco/enterprise/Cisco9861-LockdownText.bmp",
+    "docs/admin/endpoints/cisco/enterprise/Cisco9861-LockdownVisual.gif",
+    "docs/admin/endpoints/cisco/enterprise/chrome_khqHxlrOSs.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS-2.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ServiceActivation-AXLWebService.png",
+    "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+    "docs/admin/endpoints/cisco/enterprise/Screenshot.bmp",
+    "docs/admin/endpoints/cisco/enterprise/createmanual.md",
+    "docs/index.md",
     "docs/demo/index.md",
     "docs/gettingstarted/oobe.md",
     "docs/demo",
@@ -193,19 +204,10 @@
     "project",
     "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/community",
-    "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
-    "docs/admin/endpoints/cisco/enterprise/chrome_khqHxlrOSs.png",
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS-2.png",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS.png",
     "docs/admin/endpoints/cisco/enterprise/OPS-SIPTrunks-IP-CUCM.png",
     "docs/admin/endpoints/cisco/enterprise/index.md",
-    "docs/index.md",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png",
-    "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-Settings.png",
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-ApplicationUserConfiguration.png",
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ServiceActivation-AXLWebService.png",
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ContorlCenterFeatureServices-AXLWebService.png",
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedServiceability-ContorlCenterFeatureServices-Start.png",
     "CiscoUnifiedServiceability-ControlCenterFeatureServices-SelectServer.md",
     "docs/introduction/commercial.md"
   ]

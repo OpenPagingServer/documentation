@@ -14,6 +14,7 @@ If this is not possible, for example, when using NAT, you cannot currently use t
 	- In CUCM 14 and later, you can set up "Intercom" directory numbers to auto-answer calls. 
 	- On chan-sccp, you can set a special context or endpoint for pages that sets the call to auto answer (example: `Dial(SCCP/${NUMBER}/aa=1wb)`)
 	- The USECALLMANAGER.nz patch for Asterisk includes a dial plan variable called `CISCO_AUTOANSWER` to sets the call to auto answer.
+- You *may* be able to use IPv6 to bypass NAT when used alongside Unicast audio. However, it's not recommend to open up the phone's web interface to the WAN. This should be done with care and firewalls.
 
 We are currently researching other ways of sending CGI execute messages, including possibly over SIP or SCCP. However, there is currently no implementation of this currently.
   

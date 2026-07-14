@@ -50,6 +50,7 @@ nav:
                   - Overview: admin/endpoints/cisco/enterprise/index.md
                   - Pre-requisites: admin/endpoints/cisco/enterprise/prerequisites.md
                   - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
+                  - Manually adding phones: admin/endpoints/cisco/enterprise/createmanual.md
 
 site_dir: /var/www/opsdocs
 
