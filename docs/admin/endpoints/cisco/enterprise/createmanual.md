@@ -7,7 +7,7 @@ To add Cisco IP Phones manually to Open Paging Server, you'll need their hostnam
 Go to `Manage Endpoints`, `+`, `Cisco IP Phones`, `Cisco Enterprise (SEP)`.
 
 Select the model. This should be accurate, otherwise, certain features may not work properly.
-![](../../../../../chrome_aBsAZcZCzD.png)
+![](OPS-EndpointModules-CiscoIPPhone-Create.png)
 
 In `MAC Address`, enter the full 12 digit MAC address starting with SEP.
 
