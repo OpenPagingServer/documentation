@@ -8,7 +8,7 @@ On the top of the page, you can click `Cisco IP Phones` to only view Cisco IP Ph
 In list, you'll see your phones displayed along with it's name, MAC address, and IP address. 
 
 ![](OPS-EndpointModules-CiscoIPPhone-ListEntity-Online.png)
-![](chrome_sCwwyPxsyT.png)
+![](OPS-EndpointModules-CiscoIPPhone-ListEntity-Offline.png)
 
 `Online` is shown when the phone is fully reachable.
 

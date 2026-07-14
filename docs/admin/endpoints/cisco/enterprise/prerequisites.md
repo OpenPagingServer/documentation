@@ -36,7 +36,9 @@ To do this:
 
 Go to `Cisco Unified CM Administration > System > Enterprise Parameters`
 
-Find `Phone URL Parameters` and under  . You should also check **Secure Phone URL Parameters** and ensure either nothing is there, or an HTTPS URL is there.
+Find `Phone URL Parameters` and under  . You should also check `Secure Phone URL Parameters` and ensure either nothing is there, or an HTTPS URL is there.
+
+![](chrome_mxBswUFeFn.png)
 
 You can later set either CUCM's authentication server or another authentication server in Auth Relay in the Cisco endpoint module settings.
 
@@ -87,6 +89,8 @@ You can later set either CME's authentication server or another authentication s
 
 If you are using SCCP Manager on FreePBX to create configuration files, you can set the authentication URL by going to `Sccp Connectivity > Server Config`. Set `Phone authentication URL ` to `http://<OPSHOSTNAME>:8082`
 
+![](FreePBX16-SCCPMan-SCCPServerSettings-AuthUrl.png)
+
 You can later set another authentication server in Auth Relay in the Cisco endpoint module settings. 
 ##### Manually (in configuration file)
 
@@ -109,8 +113,9 @@ You'll need to enable web access in order for the phone's web server to start fo
 
 Go to `Cisco Unified CM Administration > System > Enterprise Phone Configuration`
 
-Under `Product Specific Configuration Layout`, check `Web Access`, and click `Save`.
+Under `Product Specific Configuration Layout`, set `Web Access` to `Enabled`, and click `Save`.
 
+![](chrome_nxD1PYHh8g.png)
 ##### In Cisco Call Manager Express (CME)
 
 The following will enable Web Access for both SCCP and SIP phones:
@@ -149,9 +154,9 @@ write memory
 
 ##### In SCCP Manager (FreePBX)
 
-If you are using SCCP Manager on FreePBX to create configuration files, you enable Web Access by going to `Sccp Connectivity > Server Config > Advanced SCCP Settings`. Set `Web Access` to `Enabled`
+If you are using SCCP Manager on FreePBX to create configuration files, you enable Web Access by going to `Sccp Connectivity > Server Config > Advanced SCCP Settings`. Set `Web Access` to `Enabled`.
 
-You can later set another authentication server in Auth Relay in the Cisco endpoint module settings. 
+![](FreePBX16-SCCPMan-SCCPServerSettings-WebEnable.png)
 ##### Manually (in configuration file)
 
 If you are configuring your configuration files by hand, you can set the parameter `webAccess`  under `<vendorConfig>`. `0` enables web access. For example:
