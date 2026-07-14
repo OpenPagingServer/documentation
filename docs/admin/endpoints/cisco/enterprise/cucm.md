@@ -4,7 +4,7 @@ If you are using Cisco Unified Communications Manager, you can connect Open Pagi
 
 If you are not using Cisco Unified Communications Manager, you can skip this step. 
 
-Before continuing, ensure that you completed the [[prerequisites]].
+Before continuing, make sure you have completed all the [prerequisites](prerequisites.md).
 
 ## Step 1: Enable Cisco AXL Web Service
 
@@ -98,7 +98,7 @@ Cisco Unified Communications Manager should now fully connected to Open Paging S
 
 Learn more on how to:
 
-- Manage phones
+- [Manage phones](managephones.md)
 
 - Create groups
 
