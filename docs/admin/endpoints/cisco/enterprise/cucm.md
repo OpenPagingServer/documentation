@@ -92,7 +92,7 @@ Go to `Call Routing > Route/Hunt > Route List`. Click `Add New` and enter a `Nam
 
 Now go to `Call Routing > Route/Hunt > Route Pattern`. Click `Add New`, and add route pattern(s) that match your Dial Plan Extension(s). It could either be wildcards, or one route pattern per extension. Select <!--either-->your Open Paging Server trunk<!-- ,or your route list if using a cluster--> under `Gateway/Route List`, change `Call Classification` to `OnNet` (recommended), and and assign your `Route Partition` based on your call searching spaces. And click `Save`. 
 
-![](chrome_khqHxlrOSs.png)
+![](CiscoUnifiedCMAdministration-RoutePattern-Edit-OPS.png)
 
 Cisco Unified Communications Manager should now fully connected to Open Paging Server. You are now ready to page and send messages to your Cisco IP Phones.
 
