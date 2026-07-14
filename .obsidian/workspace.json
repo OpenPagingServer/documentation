@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "700d96059c359fe0",
+  "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "chrome_aBsAZcZCzD.png",
     "docs/admin/endpoints/cisco/enterprise/8741-LockdownText.gif",
     "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-Settings.png",
     "docs/admin/endpoints/cisco/enterprise/Cisco9861-LockdownText.bmp",
@@ -207,7 +208,6 @@
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-SIPTrunk-Edit-OPS.png",
     "docs/admin/endpoints/cisco/enterprise/OPS-SIPTrunks-IP-CUCM.png",
     "docs/admin/endpoints/cisco/enterprise/index.md",
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png",
     "CiscoUnifiedServiceability-ControlCenterFeatureServices-SelectServer.md",
     "docs/introduction/commercial.md"
   ]

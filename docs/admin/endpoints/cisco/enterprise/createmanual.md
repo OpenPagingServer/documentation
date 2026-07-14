@@ -7,6 +7,7 @@ To add Cisco IP Phones manually to Open Paging Server, you'll need their hostnam
 Go to `Manage Endpoints`, `+`, `Cisco IP Phones`, `Cisco Enterprise (SEP)`.
 
 Select the model. This should be accurate, otherwise, certain features may not work properly.
+![](../../../../../chrome_aBsAZcZCzD.png)
 
 In `MAC Address`, enter the full 12 digit MAC address starting with SEP.
 
@@ -31,6 +32,7 @@ For `Visual`, you can select either Image, Text, or None.
 >![](Cisco9861-LockdownText.bmp)
 >
 >![](8741-LockdownText.gif)
+>
 >**None**: No visual message with be displayed on this telephone.
 
 In `Volume`, you can force the phone to play broadcasts at a certain volume. If volume in a message is set, that will override this value.
