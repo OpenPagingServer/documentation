@@ -38,7 +38,7 @@ Go to `Cisco Unified CM Administration > System > Enterprise Parameters`
 
 Find `Phone URL Parameters` and under  . You should also check `Secure Phone URL Parameters` and ensure either nothing is there, or an HTTPS URL is there.
 
-![](chrome_mxBswUFeFn.png)
+![](CiscoUnifiedCMAdministration-EnterpriseParameters-PhoneURL.png)
 
 You can later set either CUCM's authentication server or another authentication server in Auth Relay in the Cisco endpoint module settings.
 
@@ -115,7 +115,7 @@ Go to `Cisco Unified CM Administration > System > Enterprise Phone Configuration
 
 Under `Product Specific Configuration Layout`, set `Web Access` to `Enabled`, and click `Save`.
 
-![](chrome_nxD1PYHh8g.png)
+![](CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png)
 ##### In Cisco Call Manager Express (CME)
 
 The following will enable Web Access for both SCCP and SIP phones:

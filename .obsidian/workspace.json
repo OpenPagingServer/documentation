@@ -11,14 +11,12 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png"
               },
-              "icon": "lucide-file",
-              "title": "prerequisites"
+              "icon": "lucide-image",
+              "title": "CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prerequisites"
+              "title": "Backlinks for CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from prerequisites"
+              "title": "Outgoing links from CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prerequisites"
+              "title": "Outline of CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
             }
           }
         ]
@@ -183,15 +181,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd756204d6e1468c",
+  "active": "700d96059c359fe0",
   "lastOpenFiles": [
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterpriseParameters-PhoneURL.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
+    "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
     "docs/admin/endpoints/cisco/enterprise/OPS-SIPTrunks-IP-CUCM.png",
     "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-ListEntity-Offline.png",
     "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/FreePBX16-SCCPMan-SCCPServerSettings-AuthUrl.png",
-    "docs/admin/endpoints/cisco/enterprise/chrome_mxBswUFeFn.png",
-    "docs/admin/endpoints/cisco/enterprise/chrome_nxD1PYHh8g.png",
-    "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
     "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/enterprise/FreePBX16-SCCPMan-SCCPServerSettings-WebEnable.png",
     "docs/admin/endpoints/cisco/enterprise/managephones.md",
