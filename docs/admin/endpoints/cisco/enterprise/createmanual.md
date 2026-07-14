@@ -38,4 +38,4 @@ For `Visual`, you can select either Image, Text, or None.
 
 In `Volume`, you can force the phone to play broadcasts at a certain volume. If volume in a message is set, that will override this value.
 
-When you are done, click, `Add Cisco Enterprise Endpoint`. The phone will now appear in the endpoints list and the status should update within a few seconds. If does not update, try reloading or restarting the server or module.
+When you are done, click `Add Cisco Enterprise Endpoint`. The phone will now appear in the endpoints list and the status should update within a few seconds. If does not update, try reloading or restarting the server or module.
