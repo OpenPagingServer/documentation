@@ -65,7 +65,7 @@ If you are using an external reverse proxy, you can allow one or more of them in
 
 `WEB_HOST` defines which address the web interface runs on. For example, set this to `127.0.0.1` if using a local reverse proxy.
 
-You can change your `HTTP_PORT`, `HTTPS_PORT`, and `SIP_PORT` here as well if they overlap with another service or using a reverse proxy. When Open Paging Server is installed in Docker, ports can only be defined in `.env` and cannot be changed from the web interface, like on native installs.
+You can change your `HTTP_PORT`, `HTTPS_PORT`, and `SIP_PORT` here as well if they overlap with another service or using a reverse proxy. If your installing Open Paging Server alongside FreePBX or Asterisk, you'll want to change these ports so that they don't overlap with your primary VoIP service. When Open Paging Server is installed in Docker, ports can only be defined in `.env` and cannot be changed from the web interface, like on native installs.
 
 `DEMO_MODE` blocks user generated content from being uploaded and settings from being modified. This should not be enabled on production servers.
 
