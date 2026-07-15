@@ -11,12 +11,14 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png"
+                "file": "docs/admin/endpoints/cisco/mpp/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
+                "file": "docs/admin/endpoints/cisco/mpp/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
+                "file": "docs/admin/endpoints/cisco/mpp/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
+                "file": "docs/admin/endpoints/cisco/mpp/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess"
+              "title": "Outline of index"
             }
           }
         ]
@@ -181,18 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "700d96059c359fe0",
+  "active": "cd756204d6e1468c",
   "lastOpenFiles": [
-    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterpriseParameters-PhoneURL.png",
+    "docs/admin/endpoints/cisco/enterprise/index.md",
+    "docs/admin/endpoints/cisco/mpp/index.md",
+    "docs/admin/endpoints/cisco/index.md",
+    "docs/admin/endpoints/cisco/enterprise/managephones.md",
+    "docs/admin/endpoints/cisco/mpp",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterprisePhoneConfiguration-WebAccess.png",
+    "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-EnterpriseParameters-PhoneURL.png",
     "docs/admin/endpoints/cisco/enterprise/prerequisites.md",
     "docs/admin/endpoints/cisco/enterprise/OPS-SIPTrunks-IP-CUCM.png",
     "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-ListEntity-Offline.png",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/FreePBX16-SCCPMan-SCCPServerSettings-AuthUrl.png",
-    "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/enterprise/FreePBX16-SCCPMan-SCCPServerSettings-WebEnable.png",
-    "docs/admin/endpoints/cisco/enterprise/managephones.md",
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
     "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-Settings.png",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-RoutePattern-Edit-OPS.png",

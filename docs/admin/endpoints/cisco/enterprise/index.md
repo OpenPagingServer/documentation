@@ -1,6 +1,6 @@
 # Cisco Enterprise Phones
 
-This section applies to the following phones running UCM/Enterprise Firmware
+This section applies to the following phones running UCM/Enterprise Firmware/Mode
 - 9800 series
 - 8800 series
 - 7800 series

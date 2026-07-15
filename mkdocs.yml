@@ -46,13 +46,16 @@ nav:
       - Endpoints:
           - Cisco:
               - Overview: admin/endpoints/cisco/index.md
-              - Enterprise:
+              - Enterprise (UCM/SEP):
                   - Overview: admin/endpoints/cisco/enterprise/index.md
                   - Pre-requisites: admin/endpoints/cisco/enterprise/prerequisites.md
                   - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
                   - Manually adding phones: admin/endpoints/cisco/enterprise/createmanual.md
                   - Managing existing phones: admin/endpoints/cisco/enterprise/managephones.md
                   - Troubleshooting: admin/endpoints/cisco/enterprise/troubleshooting.md
+              - Multiplatform/SPA (SPA/MPP/3PCC/Webex): 
+                  - Overview: admin/endpoints/cisco/mpp/index.md
+             
 
 site_dir: /var/www/opsdocs
 
