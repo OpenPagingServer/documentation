@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/gettingstarted/install/dockercompose.md",
+                "file": "docs/demo/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dockercompose"
+              "title": "index"
+            }
+          },
+          {
+            "id": "19dcc954a0d1d494",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#broadcasts-direct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,10 +194,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd756204d6e1468c",
+  "active": "ea567354b590cf97",
   "lastOpenFiles": [
-    "docs/gettingstarted/install/linux.md",
+    "docs/demo/index.md",
     "docs/gettingstarted/install/dockercompose.md",
+    "docs/gettingstarted/install/linux.md",
     "docs/admin/web/reverseproxy.md",
     "docs/admin/web/intro.md",
     "docs/admin/endpoints/cisco/mpp/index.md",
@@ -209,7 +221,6 @@
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-RoutePattern-Edit-OPS.png",
     "docs/admin/endpoints/cisco/enterprise/createmanual.md",
     "docs/index.md",
-    "docs/demo/index.md",
     "docs/gettingstarted/oobe.md",
     "docs/demo",
     "docs/community/discord.md",

@@ -33,6 +33,8 @@ nav:
 
   - Introduction:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
+      
+  - Demo: demo/index.md
 
   - Getting Started:
       - Install:
