@@ -37,6 +37,7 @@ nav:
   - Getting Started:
       - Install:
           - Linux (automatic): gettingstarted/install/linux.md
+          - Docker: gettingstarted/install/dockercompose.md
           - Linux (manual): gettingstarted/install/linux-man.md
       - First-time setup: gettingstarted/oobe.md
 

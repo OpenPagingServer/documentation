@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/mpp/index.md",
+                "file": "docs/gettingstarted/install/dockercompose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "dockercompose"
             }
           }
         ]
@@ -183,12 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "700d96059c359fe0",
+  "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/gettingstarted/install/linux.md",
+    "docs/gettingstarted/install/dockercompose.md",
+    "docs/admin/web/reverseproxy.md",
+    "docs/admin/web/intro.md",
+    "docs/admin/endpoints/cisco/mpp/index.md",
     "docs/admin/endpoints/cisco/enterprise/Cisco9861-LockdownVisual.gif",
     "docs/admin/endpoints/cisco/enterprise/output.gif",
     "docs/admin/endpoints/cisco/enterprise/index.md",
-    "docs/admin/endpoints/cisco/mpp/index.md",
     "docs/admin/endpoints/cisco/index.md",
     "docs/admin/endpoints/cisco/enterprise/managephones.md",
     "docs/admin/endpoints/cisco/mpp",
@@ -203,7 +207,6 @@
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
     "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-Settings.png",
     "docs/admin/endpoints/cisco/enterprise/CiscoUnifiedCMAdministration-RoutePattern-Edit-OPS.png",
-    "docs/admin/endpoints/cisco/enterprise/OPS-EndpointModules-CiscoIPPhone-ListEntity-Online.png",
     "docs/admin/endpoints/cisco/enterprise/createmanual.md",
     "docs/index.md",
     "docs/demo/index.md",
