@@ -32,7 +32,7 @@ For `Visual`, you can select either Image, Text, or None.
 >In text mode, both the short and long messages are visible on the screen. (Short message won't be shown if the long message matches the short message or contains it). There is no color, or icon. This is the only supported mode on the 7800 series, 8831, 8832, and 9831.  Press `Info` to view message metadata (such as sender, time sent and of expiration, and product name). This mode makes it easy to read the screen from a distance This mode is not recommended if the message needs to be visible from a distance. 
 >![](Cisco9861-LockdownText.bmp)
 >
->![](8741-LockdownText.gif)
+>![](7841-LockdownText.gif)
 >
 >**None**: No visual message with be displayed on this telephone.
 
