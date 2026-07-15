@@ -4,7 +4,7 @@ The Open Paging Server Project operates a public demo server which can be used t
 
 The performance of the demo server will not be representative of how it will run on your own system to due several factors. Including available resources, public traffic, and amount of users.
 
-Please note that 
+When using the demo server, you'll be able to receive messages sent by any other user. As such, you should not stay connected to the demo server long term.
 
 ## Available Groups
 
@@ -22,4 +22,14 @@ The server is setup to replicate a school-district. With multiple campuses/build
 A separate webhook is also present in the Open Paging Server Discord in `#broadcasts-monitor` that is configured as a monitor endpoint for all groups. All broadcasts sent to any group will be posted there.
 ## Connecting Multicast Gateway
 
+In order to receive multicast RTP streams, you'll need to use Multicast Gateway. Since you cannot manage servers directly, you'll need to use the provision option.
 
+In Multicast Gateway, select `Provsion to Open Paging Server`.
+
+Enter `demo.openpagingserver.org` as the server address.
+
+`demo` as the username and `demo` as the password. 
+
+The name you enter to be stored in Open Paging Server will not be saved. Your current public IP address will be saved instead. It cannot be viewed by other users of the demo server.
+
+Once it's setup, configure your devices to listen to one of the above multicast streams. You can learn more on how to do this in Administration > Endpoints.

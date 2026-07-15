@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#broadcasts-direct",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea567354b590cf97",
+  "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled 1.canvas",
+    "2026-07-15.md",
+    "Untitled.canvas",
     "docs/demo/index.md",
     "docs/gettingstarted/install/dockercompose.md",
     "docs/gettingstarted/install/linux.md",
