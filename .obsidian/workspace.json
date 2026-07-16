@@ -11,12 +11,14 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-GroupPagingScript1.png"
+                "file": "docs/gettingstarted/oobe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "DP-9861ConfigurationUtility-GroupPagingScript1"
+              "icon": "lucide-file",
+              "title": "oobe"
             }
           },
           {
@@ -193,18 +195,23 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
-    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-PagingServ.png",
+    "docs/gettingstarted/debian-install.png",
+    "docs/gettingstarted/OPS-oobe-epm.png",
+    "docs/gettingstarted/OPS-oobe-datetime.png",
+    "docs/gettingstarted/OPS-oobe-complete.png",
+    "docs/gettingstarted/OPS-oobe-timedate.png",
+    "docs/gettingstarted/OPS-oobe-createaccount.png",
+    "docs/gettingstarted/OPS-login.png",
+    "docs/gettingstarted/OPS-oobe-analytics.png",
+    "docs/gettingstarted/oobe.md",
+    "docs/gettingstarted/OPS-oobe.png",
+    "docs/gettingstarted/OPS-oobe.png",
+    "docs/admin/Untitled.md",
+    "docs/admin/groups",
     "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-GroupPagingScript1.png",
-    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-PagingServ.png",
+    "docs/admin/messages",
     "docs/admin/endpoints/cisco/mpp/grouppaging.md",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-select.png",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-ConfigDefaults-DeviceLocations.png",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-review.png",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-saved.png",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-phone-multicastgroup.png",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-grouppagingscript.png",
     "docs/admin/endpoints/cisco/mpp/index.md",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-Devices-Settings-3orgwidedevicedefaults.png",
     "docs/demo/index.md",
     "README.md",
     "Untitled 1.canvas",
@@ -223,7 +230,6 @@
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
     "docs/admin/endpoints/cisco/enterprise/createmanual.md",
     "docs/index.md",
-    "docs/gettingstarted/oobe.md",
     "docs/demo",
     "docs/community/discord.md",
     "docs/demo",
