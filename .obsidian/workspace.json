@@ -11,14 +11,12 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/admin/endpoints/cisco/mpp/grouppaging.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-GroupPagingScript1.png"
               },
-              "icon": "lucide-file",
-              "title": "grouppaging"
+              "icon": "lucide-image",
+              "title": "DP-9861ConfigurationUtility-GroupPagingScript1"
             }
           },
           {
@@ -195,18 +193,18 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-PagingServ.png",
+    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-GroupPagingScript1.png",
+    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-PagingServ.png",
+    "docs/admin/endpoints/cisco/mpp/grouppaging.md",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-select.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-ConfigDefaults-DeviceLocations.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-review.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-saved.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-phone-multicastgroup.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-grouppagingscript.png",
-    "docs/admin/endpoints/cisco/mpp/grouppaging.md",
     "docs/admin/endpoints/cisco/mpp/index.md",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-Devices-Settings-3orgwidedevicedefaults.png",
-    "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-9861-ConfigConfigure-applied.png",
-    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-PagingServ.png",
-    "docs/admin/endpoints/cisco/mpp/DP-9861ConfigurationUtility-GroupPagingScript1.png",
     "docs/demo/index.md",
     "README.md",
     "Untitled 1.canvas",
