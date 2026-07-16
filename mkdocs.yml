@@ -58,6 +58,7 @@ nav:
                   - Troubleshooting: admin/endpoints/cisco/enterprise/troubleshooting.md
               - Multiplatform/SPA (SPA/MPP/3PCC/Webex): 
                   - Overview: admin/endpoints/cisco/mpp/index.md
+                  - Setting up Group Paging: admin/endpoints/cisco/mpp/grouppaging.md
              
 
 site_dir: /var/www/opsdocs
