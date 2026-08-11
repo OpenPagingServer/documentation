@@ -31,6 +31,9 @@ nav:
   - Main Website: https://www.openpagingserver.org
   - Welcome to Open Paging Server: index.md
 
+  - Community:
+      - Discord: community/discord.md
+
   - Introduction:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
       
