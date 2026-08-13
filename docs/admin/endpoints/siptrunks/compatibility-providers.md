@@ -3,12 +3,18 @@
 Below is a chart of SIP compatible Internet Telephony Service Provider (ITSP) providers along with their current status as of the latest stable release of Open Paging Server. Refer to historical records for data collected on older versions of Open Paging Server.
 
 **Supported**: The provider has listed and/or certified Open Paging Server as compatible and confirmed by independent tests by project contributors. The provider may provide technical support at its discretion.
+
 **Working as intended**: Independent tests by project contributors have noted the system as working. This does not count as provider endorsement and the provider may not provide technical support.
+
 **Working with issues**: Minor issues exist that don't effect everyday function or have easy workarounds.
+
 **Not working**: Does not work or requires hard or major workarounds.
+
 **Unsupported**: The provider does not support Open Paging Server
+
 **Blocked**: The provider blocks and does not allow Open Paging Server. Changing the server's user-agent to bypass this may go against the provider's EULA.
-**Untested**: 
+
+**Untested**: Not yet tested
 
 This is only a known list of providers. Just because a provider is not listed does not mean it won't work.
 

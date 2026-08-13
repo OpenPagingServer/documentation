@@ -7,9 +7,13 @@ Data is collected using independent testing by Open Paging Server project contri
 Compatible VoIP servers include PBXes/UC, Paging Servers, and SBC's/Media Gateways. When connected using a SIP trunk, Open Paging Server can exchange broadcasts and incoming DNs with the other VoIP server.
 
 **Certified**: The manufacturer has formally certified Open Paging Server as compatible
+
 **Working as intended**: Independent tests by project contributors have noted the system as working. This DOES NOT count as manufacturer endorsement.
+
 **Working with issues**: Minor issues exist that don't effect everyday function or have easy workarounds.
+
 **Not working**: Testing found that the server does not work or requires hard or major workarounds.
+
 **Unsupported**: The server does not support Open Paging Server
 
 This list only includes servers which have been tested. 

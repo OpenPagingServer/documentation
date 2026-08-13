@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/siptrunks/compatibility-server.md",
+                "file": "docs/admin/endpoints/siptrunks/compatibility-providers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "compatibility-server"
+              "title": "compatibility-providers"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
-    "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
+    "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/siptrunks",
     "project/discord.md",
     "docs/admin/compatibility",
