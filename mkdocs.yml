@@ -50,6 +50,9 @@ nav:
       - Web:
           - Reverse proxies: admin/web/reverseproxy.md
       - Endpoints:
+          - SIP Trunks:
+              - VoIP servers Compatibility Matrix: admin/endpoints/siptrunks/compatibility-server
+              - ITSP Compatibility Matrix: admin/endpoints/siptrunks/compatibility-providers
           - Cisco:
               - Overview: admin/endpoints/cisco/index.md
               - Enterprise (UCM/SEP):
