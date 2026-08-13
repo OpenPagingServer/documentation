@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indepenitly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,6 +198,7 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "telnyx-logo-text.12nivgbnzbsa1.svg",
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
     "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/siptrunks",
