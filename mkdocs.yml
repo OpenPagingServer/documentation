@@ -69,7 +69,7 @@ nav:
               - Multiplatform/SPA (SPA/MPP/3PCC/Webex): 
                   - Overview: admin/endpoints/cisco/mpp/index.md
                   - Setting up Group Paging: admin/endpoints/cisco/mpp/grouppaging.md|
-          - Discord Webhooks 
+        - Discord Webhooks:
               - Overview: admin/endpoints/discordwebhooks/overview.md
              
 
