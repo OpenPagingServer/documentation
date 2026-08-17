@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user/web/supportedbrowsers.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supportedbrowsers"
+              "title": "cucm"
             }
           },
           {

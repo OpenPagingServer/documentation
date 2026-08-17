@@ -16,4 +16,3 @@ If you are using a legacy browser not supported, you may need to update your int
 [Learn how to update an iPhone or iPad](https://support.apple.com/en-us/118575)
 
 [Update Chrome on an Android device](https://play.google.com/store/apps/details?id=com.android.chrome)
-
