@@ -108,7 +108,7 @@ Using External Call Control Profiles, you can use Open Paging Server to comply w
 
 You can also use External Call Control Profiles for notification of calls to any telephone number.
 
-When adding your CUCM servers, you may have gotten an option to add External Call Control Profiles.  If you did so, there is no more configuration needed in Open Paging Server unless you would like to customize the messages or their recipients. You can find the External Call Control Profile and it's URL under `Manage Endpoints` > `Cisco IP Phones`. The profile is by default configured to match all calls and send to all recipients for emergency numbers. 911, 112, 999, and 000. As well as common E911 testing numbers 922, 933, and 5555550911. You'll must likely want to configure the notification to only send to certain endpoints or groups.
+When adding your CUCM servers, you may have gotten an option to add External Call Control Profiles.  If you did so, there is no more configuration needed in Open Paging Server unless you would like to customize the messages or their recipients. You can find the External Call Control Profile and it's URL under `Manage Endpoints` > `Cisco IP Phones`. The profile is by default configured to match all calls and send to all recipients for emergency numbers. 911, 112, 999, and 000. As well as common E911 testing numbers 922, 933, and 5555550911. You'll most likely want to configure the notification to only send to certain endpoints or groups.
 
 To add an external call control profile, in Open Paging Server, go to `Manage Endpoints` > `+` > `Cisco IP Phones` > `External Call Control Profile`.
 
