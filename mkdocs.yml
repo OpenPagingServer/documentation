@@ -36,13 +36,13 @@ nav:
 
   - Introduction:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
-      
+
   - Demo: demo/index.md
-  
+
   - Users:
-    - Web:
-        - Supported Web Browsers: user/web/supportedbrowsers.md
-  
+      - Web:
+          - Supported Web Browsers: user/web/supportedbrowsers.md
+
   - Getting Started:
       - Install:
           - Linux (automatic): gettingstarted/install/linux.md
@@ -55,8 +55,8 @@ nav:
           - Reverse proxies: admin/web/reverseproxy.md
       - Endpoints:
           - SIP Trunks:
-              - VoIP servers Compatibility Matrix: admin/endpoints/siptrunks/compatibility-server
-              - ITSP Compatibility Matrix: admin/endpoints/siptrunks/compatibility-providers
+              - VoIP Servers Compatibility Matrix: admin/endpoints/siptrunks/compatibility-server.md
+              - ITSP Compatibility Matrix: admin/endpoints/siptrunks/compatibility-providers.md
           - Cisco:
               - Overview: admin/endpoints/cisco/index.md
               - Enterprise (UCM/SEP):
@@ -66,12 +66,11 @@ nav:
                   - Manually adding phones: admin/endpoints/cisco/enterprise/createmanual.md
                   - Managing existing phones: admin/endpoints/cisco/enterprise/managephones.md
                   - Troubleshooting: admin/endpoints/cisco/enterprise/troubleshooting.md
-              - Multiplatform/SPA (SPA/MPP/3PCC/Webex): 
+              - Multiplatform/SPA (SPA/MPP/3PCC/Webex):
                   - Overview: admin/endpoints/cisco/mpp/index.md
                   - Setting up Group Paging: admin/endpoints/cisco/mpp/grouppaging.md
-        - Discord Webhooks:
+          - Discord Webhooks:
               - Overview: admin/endpoints/discordwebhooks/overview.md
-             
 
 site_dir: /var/www/opsdocs
 
