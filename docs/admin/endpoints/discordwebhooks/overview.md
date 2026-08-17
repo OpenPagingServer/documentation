@@ -9,7 +9,7 @@ Common uses of this feature include notifying a Discord server of an event, and 
 Example of a message sent directly to a webhook
 ///
 
-![Example of a message sent to a group the webhook is monitoring](../../../../Discord_K7FsQWYCqG%202.png)
+![Example of a message sent to a group the webhook is monitoring](discord-srplockdown-monitor.png)
 /// caption
 Example of a message sent to a group the webhook is monitoring
 ///
