@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/siptrunks/compatibility-providers.md",
+                "file": "user/web/supportedbrowsers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "compatibility-providers"
+              "title": "supportedbrowsers"
             }
           },
           {
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indepenitly",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,9 +197,14 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/web/supportedbrowsers.md",
+    "user/web/supportedbrowsers.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "user/web",
+    "user",
+    "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "telnyx-logo-text.12nivgbnzbsa1.svg",
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
-    "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/siptrunks",
     "project/discord.md",
     "docs/admin/compatibility",
@@ -219,7 +223,6 @@
     "docs/gettingstarted/OPS-login.png",
     "docs/gettingstarted/OPS-oobe-analytics.png",
     "docs/gettingstarted/OPS-oobe.png",
-    "docs/gettingstarted/OPS-oobe.png",
     "docs/admin/Untitled.md",
     "docs/admin/groups",
     "docs/admin/messages",
@@ -234,7 +237,6 @@
     "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/enterprise/managephones.md",
     "docs/admin/endpoints/cisco/mpp",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
     "docs/admin/endpoints/cisco/enterprise/createmanual.md",
     "docs/index.md",
@@ -242,8 +244,6 @@
     "docs/community/discord.md",
     "docs/demo",
     "project",
-    "docs/community",
-    "CiscoUnifiedServiceability-ControlCenterFeatureServices-SelectServer.md",
-    "docs/introduction/commercial.md"
+    "CiscoUnifiedServiceability-ControlCenterFeatureServices-SelectServer.md"
   ]
 }

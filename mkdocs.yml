@@ -38,7 +38,11 @@ nav:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
       
   - Demo: demo/index.md
-
+  
+  - Users:
+    - Web:
+        - Supported Web Browsers: user/web/supportedbrowsers.md
+  
   - Getting Started:
       - Install:
           - Linux (automatic): gettingstarted/install/linux.md
