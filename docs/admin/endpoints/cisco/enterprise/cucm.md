@@ -96,9 +96,6 @@ Now go to `Call Routing > Route/Hunt > Route Pattern`. Click `Add New`, and add 
 
 ## Step 5: Adding a External Call Control Profile
 
-!!! info "Unreleased feature"
-	 Unreleased feature to be added in 0.6.0 of cisco module
-
 !!! warning "Paging Barge on Yealink IP Phones"
     Yealink IP Phones have a feature called `Paging Barge` which places a call on hold for pages. However, because unanswered calls cannot be held, they are ended by the page. This is a major issue when configuring E911 alerts, because if the phone is included in a page group that receives 911 alerts, dialing 911 on the phone itself will trigger the alert, ending the call immediately when it's placed. As such, it's best practice to disable `Paging Barge` under `Multicast Listening` on the `Multicast IP` page. 
 
