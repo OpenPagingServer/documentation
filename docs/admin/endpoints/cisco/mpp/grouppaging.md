@@ -8,7 +8,9 @@ If you have not already, create a new multicast RTP endpoint in Open Paging Serv
 
 Open Paging Server, go to `Manage Endpoints` > `+` > `Multicast RTP`. 
 
-Enter a name, choose an unused Multicast Address and Even Port. Leave the codec as `PMCU` unless you have a reason to use `PCMA`.
+Enter a name, choose an unused Multicast Address and Even Port. 
+
+Many newer SPA series along with MPP phones can support G722 for wideband "HD" audio. Select `g722` as the codec unless you have endpoints on this group without G722 support, in which case, use PCMU or PCMA depending on your region. 
 
 Click `Add Multicast RTP`.
 

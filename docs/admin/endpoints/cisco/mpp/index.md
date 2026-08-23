@@ -12,6 +12,6 @@ And all models of the following phones:
 
 - 6800 series
   
-- Sipura/Linksys/Cisco SPA series IP phones
+- All Sipura/Linksys/Cisco SPA series IP phones
   
 Using the Cisco IP Phones module, visual messages can be sent to these phones using XML EXE. Audio can be sent either with Multicast RTP or via SIP directly on Open Paging Server.
