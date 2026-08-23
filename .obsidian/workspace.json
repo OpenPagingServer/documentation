@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "file": "docs/admin/endpoints/cisco/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cucm"
+              "title": "index"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
-    "docs/githubpullupdate.php",
     "docs/index.md",
+    "docs/admin/endpoints/cisco/index.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "docs/githubpullupdate.php",
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
     "docs/admin/endpoints/cisco/enterprise/9861-StuckPixels.webp",
     "docs/admin/endpoints/cisco/mpp/grouppaging.md",
@@ -212,7 +214,6 @@
     "docs/admin/endpoints/discordwebhooks/discord-radioactivespider-direct.webp",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-Orgwideconfigdefaults-grouppagingscript1.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-location-saved.png",
-    "docs/admin/endpoints/cisco/index.md",
     "CONTRIBUTING.md",
     "docs/admin/endpoints/polycom/overview.md",
     "docs/community/discord.md",
@@ -224,7 +225,6 @@
     "docs/user",
     "Discord_K7FsQWYCqG 2.png",
     "docs/demo/index.md",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/discordwebhooks",
     "docs/admin/web/supportedbrowsers.md",
     "user/web/supportedbrowsers.md",
@@ -242,7 +242,6 @@
     "docs/gettingstarted/OPS-oobe-epm.png",
     "docs/admin/Untitled.md",
     "docs/admin/groups",
-    "docs/admin/messages",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

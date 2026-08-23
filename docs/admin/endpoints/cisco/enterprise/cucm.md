@@ -97,7 +97,7 @@ Now go to `Call Routing > Route/Hunt > Route Pattern`. Click `Add New`, and add 
 ## Step 5: Adding a External Call Control Profile
 
 !!! warning "Paging Barge on Yealink IP Phones"
-    Yealink IP Phones have a feature called `Paging Barge` which places a call on hold for pages. However, because unanswered calls cannot be held, they are ended by the page. This is a major issue when configuring E911 alerts, because if the phone is included in a page group that receives 911 alerts, dialing 911 on the phone itself will trigger the alert, ending the call immediately when it's placed. As such, it's best practice to disable `Paging Barge` under `Multicast Listening` on the `Multicast IP` page. 
+    Yealink IP Phones have a feature enabled by default called `Paging Barge` which places a call on hold for pages. However, because unanswered calls cannot be held, they are ended by the page. This is a major issue when configuring E911 alerts, because if the phone is included in a page group that receives 911 alerts, dialing 911 on the phone itself will trigger the alert, ending the call immediately when it's placed. As such, it's best practice to disable `Paging Barge` under `Multicast Listening` on the `Multicast IP` page. 
 
 Under federal law ([Kari's Law Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/582)), any multi-line telephone system (MLTS) located in the United States must have central and/or off-site notification of any call placed to 911.
 
@@ -109,7 +109,7 @@ When adding your CUCM servers, you may have gotten an option to add External Cal
 
 To add an external call control profile, in Open Paging Server, go to `Manage Endpoints` > `+` > `Cisco IP Phones` > `External Call Control Profile`.
 
-
+## Closing
 
 Cisco Unified Communications Manager is now fully connected to Open Paging Server. You are now ready to page and send messages to your Cisco IP Phones.
 
