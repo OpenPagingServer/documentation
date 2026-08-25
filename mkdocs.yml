@@ -55,8 +55,8 @@ nav:
       - Web:
           - Reverse proxies: admin/web/reverseproxy.md
       - Messages:
-          - Variables: admin/web/variables.md
-          - TTS: admin/web/tts.md
+          - Variables: admin/messages/variables.md
+          - TTS: admin/messages/tts.md
       - Endpoints:
           - SIP Trunks:
               - VoIP Servers Compatibility Matrix: admin/endpoints/siptrunks/compatibility-server.md

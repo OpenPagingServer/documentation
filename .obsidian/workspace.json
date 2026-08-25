@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/messages/variables.md",
+                "file": "docs/admin/messages/tts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "variables"
+              "title": "tts"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/messages/variables.md",
     "docs/admin/gettingstarted/install/linux-man.md",
     "docs/admin/gettingstarted/install/linux.md",
     "docs/admin/gettingstarted/install/dockercompose.md",
@@ -213,7 +214,6 @@
     "docs/admin/gettingstarted/debian-install.png",
     "docs/admin/gettingstarted",
     "docs/admin/messages/tts.md",
-    "docs/admin/messages/variables.md",
     "chrome_tLF5mQCJay.png",
     "docs/admin/login/captcha.md",
     "docs/admin/login/loginmsg.md",
