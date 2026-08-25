@@ -43,16 +43,20 @@ nav:
       - Web:
           - Supported Web Browsers: user/web/supportedbrowsers.md
 
-  - Getting Started:
-      - Install:
-          - Linux (automatic): gettingstarted/install/linux.md
-          - Docker: gettingstarted/install/dockercompose.md
-          - Linux (manual): gettingstarted/install/linux-man.md
-      - First-time setup: gettingstarted/oobe.md
+
 
   - Administration:
+      - Getting Started:
+        - Install:
+          - Linux (automatic): admin/gettingstarted/install/linux.md
+          - Docker: admin/gettingstarted/install/dockercompose.md
+          - Linux (manual): admin/gettingstarted/install/linux-man.md
+        - First-time setup: admin/gettingstarted/oobe.md
       - Web:
           - Reverse proxies: admin/web/reverseproxy.md
+      - Messages:
+          - Variables: admin/web/variables.md
+          - TTS: admin/web/tts.md
       - Endpoints:
           - SIP Trunks:
               - VoIP Servers Compatibility Matrix: admin/endpoints/siptrunks/compatibility-server.md
