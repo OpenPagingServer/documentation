@@ -11,14 +11,12 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/admin/messages/tts.md",
-                "mode": "source",
-                "source": false
+                "file": "Discord_K7FsQWYCqG 1.png"
               },
-              "icon": "lucide-file",
-              "title": "tts"
+              "icon": "lucide-image",
+              "title": "Discord_K7FsQWYCqG 1"
             }
           },
           {
@@ -197,6 +195,10 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/messages/chrome_tLF5mQCJay.png",
+    "docs/admin/messages/chrome_397Cd4M1ng.png",
+    "docs/admin/messages/chrome_6SHYAMtI4M.png",
+    "docs/admin/messages/tts.md",
     "docs/admin/messages/variables.md",
     "docs/admin/gettingstarted/install/linux-man.md",
     "docs/admin/gettingstarted/install/linux.md",
@@ -211,10 +213,7 @@
     "docs/admin/gettingstarted/OPS-login.png",
     "docs/admin/gettingstarted/oobe.md",
     "docs/admin/gettingstarted/install",
-    "docs/admin/gettingstarted/debian-install.png",
     "docs/admin/gettingstarted",
-    "docs/admin/messages/tts.md",
-    "chrome_tLF5mQCJay.png",
     "docs/admin/login/captcha.md",
     "docs/admin/login/loginmsg.md",
     "CONTRIBUTING.md",
@@ -239,7 +238,6 @@
     "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/discordwebhooks/overview.md",
     "docs/admin/endpoints/discordwebhooks/adding.md",
-    "docs/community/discord.md",
     "docs/admin/endpoints/polycom",
     "docs/user/web",
     "docs/user",

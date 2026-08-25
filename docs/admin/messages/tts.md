@@ -6,17 +6,17 @@ Text-to-speech uses [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synt
 
 To insert text-to-speech into the audio of a message, click the `Add TTS` button. The icon is a human head facing right with dots coming out of the mouth.
 
-![](../../../chrome_397Cd4M1ng.png)
+![](chrome_397Cd4M1ng.png)
 
 You can select a voice from the dropdown. You can also insert variables by clicking `Insert Variable` using the `${x}` icon.
 
-![](../../../chrome_6SHYAMtI4M.png)
+![](chrome_6SHYAMtI4M.png)
 
 Select the `Test` button for a preview of the voice. When finished, click `Add TTS`.
 
 You can view the TTS entry in the list. Like with audio files, you can reorder it or delete it. Use the edit (pencil) button to change the text and/or voice.
 
-![](../../../chrome_tLF5mQCJay.png)
+![](chrome_tLF5mQCJay.png)
 ## Supported TTS Engines
 
 There are 3 factors to consider when picking a TTS engine.
