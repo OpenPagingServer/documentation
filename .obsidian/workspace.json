@@ -11,12 +11,14 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Discord_K7FsQWYCqG 1.png"
+                "file": "docs/community/discord.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Discord_K7FsQWYCqG 1"
+              "icon": "lucide-file",
+              "title": "discord"
             }
           },
           {
@@ -195,6 +197,8 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/messages/intro.md",
+    "Discord_K7FsQWYCqG 1.png",
     "docs/admin/messages/chrome_tLF5mQCJay.png",
     "docs/admin/messages/chrome_397Cd4M1ng.png",
     "docs/admin/messages/chrome_6SHYAMtI4M.png",
@@ -209,8 +213,6 @@
     "docs/admin/gettingstarted/OPS-oobe-epm.png",
     "docs/admin/gettingstarted/OPS-oobe-timedate.png",
     "docs/admin/gettingstarted/OPS-oobe-datetime.png",
-    "docs/admin/gettingstarted/OPS-oobe-createaccount.png",
-    "docs/admin/gettingstarted/OPS-login.png",
     "docs/admin/gettingstarted/oobe.md",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
@@ -237,7 +239,6 @@
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
     "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/discordwebhooks/overview.md",
-    "docs/admin/endpoints/discordwebhooks/adding.md",
     "docs/admin/endpoints/polycom",
     "docs/user/web",
     "docs/user",
