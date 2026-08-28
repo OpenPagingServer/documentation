@@ -16,7 +16,7 @@ We have a public Discord server for community support, discussing development, s
 
 ## Support
 
-The Discord server has a ticket system for the purpose contacting project staff or server moderators.  **We DO NOT** provide support for our software outside of community support channels<!--, and our paid commercial support service-->. 
+The Discord server has a ticket system for the purpose contacting project staff or server moderators.  **We DO NOT** provide support for our software via support tickets and outside of community support channels<!--, and our paid commercial support service-->. 
 
 Community support is available in the Discord server. If you have any questions, need assistance, or encounter any issues, you can open a thread in the community-support forum channel and another member of the community will assist you.
 
