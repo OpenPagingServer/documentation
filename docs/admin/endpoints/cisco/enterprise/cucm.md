@@ -1,6 +1,6 @@
 # Connecting to Cisco Unified Communications Manager
 
-If you are using Cisco Unified Communications Manager, you can connect Open Paging Server so that your phones and their IP addresses sync automatically using AXL. We will also cover how to add a SIP trunk so that you can dial into Open Paging Server from Cisco Unified Communications Manager for paging or sending messages.
+If you are using Cisco Unified Communications Manager, you can connect Open Paging Server so that your phones and their IP addresses sync automatically using AXL. And we will cover how to add a SIP trunk so that you can dial into Open Paging Server from Cisco Unified Communications Manager for paging or sending messages, and how to add a External Call Control Profile to send notifications of placed calls to emergency services and/or to any number(s) desired.
 
 If you are not using Cisco Unified Communications Manager, you can skip this step. 
 
@@ -40,7 +40,7 @@ Create a new `User ID`, and choose a password which will go under both `Password
 
 **You don't need to assign any devices under `Device Information.`** Open Paging Server does not need to control your devices through CUCM. However, as we mentioned earlier in the documentation, we are researching different ways of sending broadcasts to phones, and this may be one of them in the future. But you can always assign phones in the future if this is ever used.
 
-Under `Permissions Information`, click `Add to Access Control Groups`, select `Standard AXL API Users`, `Standard AXL Read Only API Access`, `Standard CCM Phone Administration` and click `Add Selected`
+Under `Permissions Information`, click `Add to Access Control Groups`, select `Standard AXL API Users`, `Standard AXL Read Only API Access`, `Standard CCM Phone Administration` and click `Add Selected`.
 
 ![](CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png)
 
@@ -101,14 +101,29 @@ Now go to `Call Routing > Route/Hunt > Route Pattern`. Click `Add New`, and add 
 
 Under federal law ([Kari's Law Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/582)), any multi-line telephone system (MLTS) located in the United States must have central and/or off-site notification of any call placed to 911.
 
-Using External Call Control Profiles, you can use Open Paging Server to comply with notification requirements without compromising on survivability. 
+Using External Call Control Profiles, you can use Open Paging Server to comply with E911 notification requirements without compromising on survivability. 
 
-You can also use External Call Control Profiles for notification of calls to any telephone number.
+You can also use External Call Control Profiles for notification of calls to any telephone number. External Call Control Profiles are typically used to define whether a call is allowed, however it can also be used to notify another server of a placed call. Open Paging Server will always allow any call, regardless of configured notification rules.
 
 When adding your CUCM servers, you may have gotten an option to add External Call Control Profiles.  If you did so, there is no more configuration needed in Open Paging Server unless you would like to customize the messages or their recipients. You can find the External Call Control Profile and it's URL under `Manage Endpoints` > `Cisco IP Phones`. The profile is by default configured to match all calls and send to all recipients for emergency numbers. 911, 112, 999, and 000. As well as common E911 testing numbers 922, 933, and 5555550911. You'll most likely want to configure the notification to only send to certain endpoints or groups.
 
 To add an external call control profile, in Open Paging Server, go to `Manage Endpoints` > `+` > `Cisco IP Phones` > `External Call Control Profile`.
 
+![](../../../../../chrome_BWrR6ZbIE0.png)
+
+A CURRI URL will be provided based on the current origin of the webpage, you may need to change the hostname depending on your setup. Copy this URL to paste into CUCM. From this page, you can edit the rules. You'll want to change the recipient groups. Click the pencil button in the message row to edit the attached message.
+
+Once your CURRI endpoint is finished, go to `Cisco Unified CM Administration` > `Call Routing` > `External Call Control Profile` and click `Add New`.
+
+![](../../../../../chrome_3movrOxgYG.png)
+
+Enter the URL provided by the module under `Primary Web Service`. `Call Treatment on Failures` should **ALWAYS** be set to `Allow Calls`. Click `Save`.  
+
+Once created, go to `Call Routing` > `Route/Hunt` > `Route Pattern` and go to every applicable route pattern and select the External Call Control Profile. 
+
+![](../../../../../chrome_FHyPHx99ue.png)
+
+To test, use your telephone providers E911 testing number (such as 922, 933, 5555550911). **DO NOT** call emergency services unless it's an emergency or apart of a coordinated test with your PSAP.
 ## Closing
 
 Cisco Unified Communications Manager is now fully connected to Open Paging Server. You are now ready to page and send messages to your Cisco IP Phones.

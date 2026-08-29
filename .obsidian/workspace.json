@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "desired",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd756204d6e1468c",
+  "active": "ea567354b590cf97",
   "lastOpenFiles": [
+    "chrome_FHyPHx99ue.png",
+    "chrome_3movrOxgYG.png",
+    "chrome_BWrR6ZbIE0.png",
     "docs/community/discord.md",
     "docs/admin/messages/intro.md",
     "Discord_K7FsQWYCqG 1.png",
@@ -212,8 +216,6 @@
     "docs/admin/gettingstarted/OPS-oobe-complete.png",
     "docs/admin/gettingstarted/OPS-oobe.png",
     "docs/admin/gettingstarted/OPS-oobe-epm.png",
-    "docs/admin/gettingstarted/OPS-oobe-timedate.png",
-    "docs/admin/gettingstarted/OPS-oobe-datetime.png",
     "docs/admin/gettingstarted/oobe.md",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
@@ -239,7 +241,6 @@
     "docs/admin/endpoints/cisco/mpp/index.md",
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
     "docs/admin/endpoints/siptrunks/compatibility-providers.md",
-    "docs/admin/endpoints/discordwebhooks/overview.md",
     "docs/admin/endpoints/polycom",
     "docs/user/web",
     "docs/user",
