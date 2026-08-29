@@ -40,7 +40,7 @@ Create a new `User ID`, and choose a password which will go under both `Password
 
 **You don't need to assign any devices under `Device Information.`** Open Paging Server does not need to control your devices through CUCM. However, as we mentioned earlier in the documentation, we are researching different ways of sending broadcasts to phones, and this may be one of them in the future. But you can always assign phones in the future if this is ever used.
 
-Under `Permissions Information`, click `Add to Access Control Groups`, select `Standard CCM Phone Administration` and click `Add Selected`
+Under `Permissions Information`, click `Add to Access Control Groups`, select `Standard AXL API Users`, `Standard AXL Read Only API Access`, `Standard CCM Phone Administration` and click `Add Selected`
 
 ![](CiscoUnifiedCMAdministration-ApplicationUserConfiguration-AccessControlGroups.png)
 
