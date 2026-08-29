@@ -11,14 +11,12 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/admin/endpoints/cisco/enterprise/chrome_FHyPHx99ue.png"
               },
-              "icon": "lucide-file",
-              "title": "cucm"
+              "icon": "lucide-image",
+              "title": "chrome_FHyPHx99ue"
             }
           },
           {
@@ -65,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desired",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,11 +193,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea567354b590cf97",
+  "active": "700d96059c359fe0",
   "lastOpenFiles": [
-    "chrome_FHyPHx99ue.png",
-    "chrome_3movrOxgYG.png",
-    "chrome_BWrR6ZbIE0.png",
+    "docs/admin/endpoints/cisco/enterprise/chrome_3movrOxgYG.png",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "docs/admin/endpoints/cisco/enterprise/chrome_FHyPHx99ue.png",
+    "docs/admin/endpoints/cisco/enterprise/chrome_BWrR6ZbIE0.png",
     "docs/community/discord.md",
     "docs/admin/messages/intro.md",
     "Discord_K7FsQWYCqG 1.png",
@@ -215,7 +213,6 @@
     "docs/admin/gettingstarted/OPS-oobe-analytics.png",
     "docs/admin/gettingstarted/OPS-oobe-complete.png",
     "docs/admin/gettingstarted/OPS-oobe.png",
-    "docs/admin/gettingstarted/OPS-oobe-epm.png",
     "docs/admin/gettingstarted/oobe.md",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
@@ -234,7 +231,6 @@
     "docs/admin/endpoints/cisco/index.md",
     "docs/admin/endpoints/polycom/overview.md",
     "docs/index.md",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/githubpullupdate.php",
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
     "docs/admin/endpoints/cisco/mpp/grouppaging.md",

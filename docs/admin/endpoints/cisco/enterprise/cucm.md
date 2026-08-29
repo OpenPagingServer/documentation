@@ -109,19 +109,19 @@ When adding your CUCM servers, you may have gotten an option to add External Cal
 
 To add an external call control profile, in Open Paging Server, go to `Manage Endpoints` > `+` > `Cisco IP Phones` > `External Call Control Profile`.
 
-![](../../../../../chrome_BWrR6ZbIE0.png)
+![](chrome_BWrR6ZbIE0.png)
 
 A CURRI URL will be provided based on the current origin of the webpage, you may need to change the hostname depending on your setup. Copy this URL to paste into CUCM. From this page, you can edit the rules. You'll want to change the recipient groups. Click the pencil button in the message row to edit the attached message.
 
 Once your CURRI endpoint is finished, go to `Cisco Unified CM Administration` > `Call Routing` > `External Call Control Profile` and click `Add New`.
 
-![](../../../../../chrome_3movrOxgYG.png)
+![](chrome_3movrOxgYG.png)
 
 Enter the URL provided by the module under `Primary Web Service`. `Call Treatment on Failures` should **ALWAYS** be set to `Allow Calls`. Click `Save`.  
 
 Once created, go to `Call Routing` > `Route/Hunt` > `Route Pattern` and go to every applicable route pattern and select the External Call Control Profile. 
 
-![](../../../../../chrome_FHyPHx99ue.png)
+![](chrome_FHyPHx99ue.png)
 
 To test, use your telephone providers E911 testing number (such as 922, 933, 5555550911). **DO NOT** call emergency services unless it's an emergency or apart of a coordinated test with your PSAP.
 ## Closing
