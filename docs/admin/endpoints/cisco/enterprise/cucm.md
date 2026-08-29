@@ -1,6 +1,6 @@
 # Connecting to Cisco Unified Communications Manager
 
-If you are using Cisco Unified Communications Manager, you can connect Open Paging Server so that your phones and their IP addresses sync automatically using AXL. And we will cover how to add a SIP trunk so that you can dial into Open Paging Server from Cisco Unified Communications Manager for paging or sending messages, and how to add a External Call Control Profile to send notifications of placed calls to emergency services and/or to any number(s) desired.
+If you are using Cisco Unified Communications Manager, you can connect Open Paging Server so that your phones and their IP addresses sync automatically using AXL. And we will cover how to add a SIP trunk so that you can dial into Open Paging Server from Cisco Unified Communications Manager for paging or sending messages, and how to add a External Call Control Profile to send notifications of calls placed to emergency services and/or to any number(s) desired.
 
 If you are not using Cisco Unified Communications Manager, you can skip this step. 
 

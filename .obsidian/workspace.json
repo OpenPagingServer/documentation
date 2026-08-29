@@ -11,12 +11,14 @@
             "id": "cd756204d6e1468c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/chrome_FHyPHx99ue.png"
+                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "chrome_FHyPHx99ue"
+              "icon": "lucide-file",
+              "title": "cucm"
             }
           },
           {
@@ -193,11 +195,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "700d96059c359fe0",
+  "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/endpoints/cisco/enterprise/chrome_FHyPHx99ue.png",
     "docs/admin/endpoints/cisco/enterprise/chrome_3movrOxgYG.png",
     "docs/admin/endpoints/cisco/enterprise/cucm.md",
-    "docs/admin/endpoints/cisco/enterprise/chrome_FHyPHx99ue.png",
     "docs/admin/endpoints/cisco/enterprise/chrome_BWrR6ZbIE0.png",
     "docs/community/discord.md",
     "docs/admin/messages/intro.md",
