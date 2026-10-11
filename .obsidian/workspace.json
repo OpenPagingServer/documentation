@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/enterprise/cucm.md",
+                "file": "docs/admin/endpoints/anetd/connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cucm"
+              "title": "connect"
             }
           },
           {
@@ -197,9 +197,13 @@
   },
   "active": "cd756204d6e1468c",
   "lastOpenFiles": [
+    "docs/admin/endpoints/anetd/chrome_XqnKFChPQj.png",
+    "docs/admin/endpoints/anetd/connect.md",
+    "docs/admin/endpoints/cisco/mpp/grouppaging.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "docs/admin/endpoints/anetd",
     "docs/admin/endpoints/cisco/enterprise/chrome_FHyPHx99ue.png",
     "docs/admin/endpoints/cisco/enterprise/chrome_3movrOxgYG.png",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/cisco/enterprise/chrome_BWrR6ZbIE0.png",
     "docs/community/discord.md",
     "docs/admin/messages/intro.md",
@@ -214,7 +218,6 @@
     "docs/admin/gettingstarted/install/dockercompose.md",
     "docs/admin/gettingstarted/OPS-oobe-analytics.png",
     "docs/admin/gettingstarted/OPS-oobe-complete.png",
-    "docs/admin/gettingstarted/OPS-oobe.png",
     "docs/admin/gettingstarted/oobe.md",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
@@ -235,13 +238,10 @@
     "docs/index.md",
     "docs/githubpullupdate.php",
     "docs/admin/endpoints/cisco/enterprise/troubleshooting.md",
-    "docs/admin/endpoints/cisco/mpp/grouppaging.md",
     "docs/admin/endpoints/cisco/mpp/index.md",
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
-    "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/admin/endpoints/polycom",
     "docs/user/web",
-    "docs/user",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
