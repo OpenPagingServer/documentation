@@ -51,7 +51,6 @@ nav:
           - Variables: admin/messages/variables.md
           - TTS: admin/messages/tts.md
       - Endpoints:
-          - SIP Trunks:
           - Advanced Network Devices:
              - Multicast Paging: admin/endpoints/anetd/multicast.md
              - Visual text scroll: admin/endpoints/anetd/visual.md
