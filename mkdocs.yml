@@ -52,6 +52,7 @@ nav:
           - TTS: admin/messages/tts.md
       - Endpoints:
           - Advanced Network Devices:
+             - Overview: admin/endpoints/anetd/overview.md
              - Multicast Paging: admin/endpoints/anetd/multicast.md
              - Visual text scroll: admin/endpoints/anetd/visual.md
           - Cisco:
