@@ -30,21 +30,14 @@ extra_css:
 nav:
   - Main Website: https://www.openpagingserver.org
   - Welcome to Open Paging Server: index.md
-
   - Community:
       - Discord: community/discord.md
-
   - Introduction:
       - Open Paging Server vs Commercial Products: introduction/commercial.md
-
   - Demo: demo/index.md
-
   - Users:
       - Web:
           - Supported Web Browsers: user/web/supportedbrowsers.md
-
-
-
   - Administration:
       - Getting Started:
         - Install:
@@ -76,7 +69,6 @@ nav:
                   - Setting up Group Paging: admin/endpoints/cisco/mpp/grouppaging.md
           - Discord Webhooks:
               - Overview: admin/endpoints/discordwebhooks/overview.md
-
 site_dir: /var/www/opsdocs
 
 markdown_extensions:
