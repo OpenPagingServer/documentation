@@ -59,8 +59,9 @@ nav:
           - TTS: admin/messages/tts.md
       - Endpoints:
           - SIP Trunks:
-              - VoIP Servers Compatibility Matrix: admin/endpoints/siptrunks/compatibility-server.md
-              - ITSP Compatibility Matrix: admin/endpoints/siptrunks/compatibility-providers.md
+          - Advanced Network Devices:
+             - Multicast Paging: admin/endpoints/anetd/multicast.md
+             - Visual text scroll: admin/endpoints/anetd/visual.md
           - Cisco:
               - Overview: admin/endpoints/cisco/index.md
               - Enterprise (UCM/SEP):

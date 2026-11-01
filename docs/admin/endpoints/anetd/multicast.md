@@ -1,6 +1,6 @@
 # Connect Advanced Network Devices IP Speakers to Open Paging Server
 
-Using a multicast RTP stream, you can use Advanced Network Devices IP Speakers on Open Paging Server. For models with clocks, you can also use HTTP requests to display visual messages. Each device must be manually configured. In the end, you'll have 2 endpoints that can be added to a group. One for visual, and one for audio.
+Using a multicast RTP stream, you can use Advanced Network Devices IP Speakers on Open Paging Server.
 
 ## Add a Multicast RTP Stream
 
@@ -22,8 +22,3 @@ Go to `Device Settings` > `Streams` and add the new stream in `IP:Port` in `Perm
 
 ![](chrome_XqnKFChPQj.png)
 
-## Configure text scroll for visual messages
-
-For clocks and signs, you can configure text and flashers for visual messages. 
-
-First, set the `General Command Password` under `Network`. It's recommended to use a different one per device. You can also change the `HTTP Command Port` as well per clock. Make sure you write down the new port for each device with it's MAC address somewhere safe, since the web interface will also run on this port. 
