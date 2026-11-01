@@ -1,4 +1,4 @@
- ## Configure text scroll for visual messages on Advanced Network Devices
+## Configure text scroll for visual messages on Advanced Network Devices
 
 For models with clocks or displays, you can also use HTTP requests to display visual messages. Each device must be manually configured.
 
