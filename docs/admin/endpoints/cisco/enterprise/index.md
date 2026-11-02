@@ -1,5 +1,9 @@
 # Cisco Enterprise Phones
 
+???+ info "7900 image bug"
+	There is currently a known bug with some 7900 phones where the visual message shows blank in image mode. This will be fixed at a later date. For phones with this issue, use text mode.
+	
+
 This section applies to the following phones running UCM/Enterprise Firmware/Mode
 - 9800 series
 - 8800 series
