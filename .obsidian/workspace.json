@@ -187,6 +187,8 @@
   },
   "active": "19dcc954a0d1d494",
   "lastOpenFiles": [
+    "docs/admin/endpoints/anetd/multicast.md",
+    "docs/admin/endpoints/anetd/visual.md",
     "docs/admin/endpoints/cisco/index.md",
     "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/mpp/index.md",
@@ -196,8 +198,6 @@
     "docs/admin/endpoints/siptrunks/compatibility-providers.md",
     "docs/introduction/commercial.md",
     "getting-started.md",
-    "docs/admin/endpoints/anetd/visual.md",
-    "docs/admin/endpoints/anetd/multicast.md",
     "docs/admin/endpoints/siptrunks/compatibility-server.md",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-Orgwideconfigdefaults-saved.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-ConfigDefaults-DeviceLocations.png",

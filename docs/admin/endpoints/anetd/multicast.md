@@ -1,4 +1,4 @@
-# Connect Advanced Network Devices IP Speakers to Open Paging Server
+# Configure Advanced Network Devices IP Speakers to listen to Multicast RTP from Open Paging Server
 
 Using a multicast RTP stream, you can use Advanced Network Devices IP Speakers on Open Paging Server.
 

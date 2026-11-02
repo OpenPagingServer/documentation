@@ -54,7 +54,7 @@ nav:
           - Advanced Network Devices:
              - Overview: admin/endpoints/anetd/overview.md
              - Multicast Paging: admin/endpoints/anetd/multicast.md
-             - Visual text scroll: admin/endpoints/anetd/visual.md
+             - Visual Text (Scroll): admin/endpoints/anetd/visual.md
           - Cisco:
               - Overview: admin/endpoints/cisco/index.md
               - Enterprise (UCM/SEP):
