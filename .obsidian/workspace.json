@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "avabaile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "19dcc954a0d1d494",
+  "active": "ea567354b590cf97",
   "lastOpenFiles": [
     "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/enterprise/managephones.md",
