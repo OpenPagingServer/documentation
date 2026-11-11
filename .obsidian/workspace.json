@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/cisco/3psiplua.md",
+                "file": "docs/admin/endpoints/cisco/enterprise/createmanual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3psiplua"
+              "title": "createmanual"
             }
           }
         ]
@@ -187,9 +187,14 @@
   },
   "active": "19dcc954a0d1d494",
   "lastOpenFiles": [
+    "docs/admin/endpoints/cisco/enterprise/index.md",
+    "docs/admin/endpoints/cisco/enterprise/managephones.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "docs/admin/endpoints/cisco/3psiplua.md",
+    "docs/developers/debug.md",
+    "docs/admin/login/loginmsg.md",
     "docs/admin/identity/sso.md",
     "docs/admin/identity",
-    "docs/admin/login/loginmsg.md",
     "docs/community/discord.md",
     "docs/user/web/supportedbrowsers.md",
     "docs/introduction/whatis.md",
@@ -200,16 +205,13 @@
     "docs/admin/endpoints/avaya/ipoffice.md",
     "docs/admin/client/chrome/overview.md",
     "docs/admin/client/chrome",
-    "docs/admin/endpoints/cisco/3psiplua.md",
     "docs/admin/client",
     "docs/admin/endpoints/cisco/enterprise/createmanual.md",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/freepbx",
     "docs/admin/endpoints/avaya",
     "docs/admin/endpoints/anetd/visual.md",
     "docs/admin/endpoints/anetd/multicast.md",
     "docs/admin/endpoints/cisco/index.md",
-    "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/mpp/index.md",
     "docs/admin/endpoints/anetd/chrome_XqnKFChPQj.png",
     "docs/admin/endpoints/anetd/Demo.mp4",
@@ -227,7 +229,6 @@
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-9861-ConfigConfigure-applied.png",
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-9861-AllConfig.png",
     "docs/admin/endpoints/anetd/connect.md",
-    "docs/admin/endpoints/cisco/mpp/grouppaging.md",
     "docs/admin/endpoints/anetd",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
