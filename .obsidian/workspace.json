@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/anetd/visual.md",
+                "file": "docs/admin/endpoints/anetd/overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visual"
+              "title": "overview"
             }
           }
         ]
@@ -187,12 +187,24 @@
   },
   "active": "19dcc954a0d1d494",
   "lastOpenFiles": [
-    "docs/admin/endpoints/anetd/multicast.md",
+    "docs/admin/endpoints/avaya/ipoffice.md",
+    "docs/admin/endpoints/avaya/overview.md",
+    "docs/admin/endpoints/freepbx/connecting.md",
+    "docs/admin/endpoints/polycom/overview.md",
+    "docs/admin/client/chrome/overview.md",
+    "docs/admin/client/chrome",
+    "docs/admin/endpoints/cisco/3psiplua.md",
+    "docs/admin/client",
+    "docs/admin/endpoints/cisco/enterprise/createmanual.md",
+    "docs/admin/endpoints/cisco/enterprise/cucm.md",
+    "docs/admin/endpoints/freepbx",
+    "docs/admin/endpoints/anetd/overview.md",
+    "docs/admin/endpoints/avaya",
     "docs/admin/endpoints/anetd/visual.md",
+    "docs/admin/endpoints/anetd/multicast.md",
     "docs/admin/endpoints/cisco/index.md",
     "docs/admin/endpoints/cisco/enterprise/index.md",
     "docs/admin/endpoints/cisco/mpp/index.md",
-    "docs/admin/endpoints/anetd/overview.md",
     "docs/admin/endpoints/anetd/chrome_XqnKFChPQj.png",
     "docs/admin/endpoints/anetd/Demo.mp4",
     "docs/admin/endpoints/siptrunks/compatibility-providers.md",
@@ -210,7 +222,6 @@
     "docs/admin/endpoints/cisco/mpp/Webex-CollaborationControlHub-9861-AllConfig.png",
     "docs/admin/endpoints/anetd/connect.md",
     "docs/admin/endpoints/cisco/mpp/grouppaging.md",
-    "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/anetd",
     "docs/community/discord.md",
     "docs/admin/messages/intro.md",
@@ -218,21 +229,10 @@
     "docs/admin/messages/variables.md",
     "docs/admin/gettingstarted/install/linux-man.md",
     "docs/admin/gettingstarted/install/linux.md",
-    "docs/admin/gettingstarted/install/dockercompose.md",
-    "docs/admin/gettingstarted/oobe.md",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
-    "docs/admin/login/captcha.md",
-    "docs/admin/login/loginmsg.md",
-    "CONTRIBUTING.md",
-    "docs/admin/login/sso.md",
     "docs/admin/login",
-    "docs/introduction/whatis.md",
     "docs/admin/users",
-    "docs/developers",
-    "docs/forbusiness",
-    "docs/githubpullupdate.php",
-    "docs/admin/endpoints/polycom",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

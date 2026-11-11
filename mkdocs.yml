@@ -55,6 +55,8 @@ nav:
              - Overview: admin/endpoints/anetd/overview.md
              - Multicast Paging: admin/endpoints/anetd/multicast.md
              - Visual Text (Scroll): admin/endpoints/anetd/visual.md
+          - Avaya:
+             - Overview: admin/endpoints/avaya/overview.md
           - Cisco:
               - Overview: admin/endpoints/cisco/index.md
               - Enterprise (UCM/SEP):
@@ -69,6 +71,8 @@ nav:
                   - Setting up Group Paging: admin/endpoints/cisco/mpp/grouppaging.md
           - Discord Webhooks:
               - Overview: admin/endpoints/discordwebhooks/overview.md
+          - Polycom:
+              - Overview: admin/endpoints/polycom/overview.md
 site_dir: /var/www/opsdocs
 
 markdown_extensions:
