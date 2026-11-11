@@ -47,6 +47,11 @@ nav:
         - First-time setup: admin/gettingstarted/oobe.md
       - Web:
           - Reverse proxies: admin/web/reverseproxy.md
+      - Identity:
+          - User federation: admin/identity/federation.md
+          - Single sign-on:  admin/identity/sso.md
+      - Login:
+          - Login banner: admin/login/loginmsg.md
       - Messages:
           - Variables: admin/messages/variables.md
           - TTS: admin/messages/tts.md
@@ -55,6 +60,8 @@ nav:
              - Overview: admin/endpoints/anetd/overview.md
              - Multicast Paging: admin/endpoints/anetd/multicast.md
              - Visual Text (Scroll): admin/endpoints/anetd/visual.md
+          - Asterisk:
+            - Overview: admin/endpoints/asterisk/overview.med
           - Avaya:
              - Overview: admin/endpoints/avaya/overview.md
           - Cisco:
@@ -69,8 +76,11 @@ nav:
               - Multiplatform/SPA (SPA/MPP/3PCC/Webex):
                   - Overview: admin/endpoints/cisco/mpp/index.md
                   - Setting up Group Paging: admin/endpoints/cisco/mpp/grouppaging.md
+              - Third-party SIP Devices: admin/endpoints/cisco/3psiplua
           - Discord Webhooks:
               - Overview: admin/endpoints/discordwebhooks/overview.md
+          - FreePBX:
+              - Overview: admin/endpoints/freepbx/overview.md
           - Polycom:
               - Overview: admin/endpoints/polycom/overview.md
 site_dir: /var/www/opsdocs

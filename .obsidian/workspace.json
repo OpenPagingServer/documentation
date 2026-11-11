@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/admin/endpoints/anetd/overview.md",
+                "file": "docs/admin/endpoints/cisco/3psiplua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "3psiplua"
             }
           }
         ]
@@ -187,10 +187,17 @@
   },
   "active": "19dcc954a0d1d494",
   "lastOpenFiles": [
-    "docs/admin/endpoints/avaya/ipoffice.md",
-    "docs/admin/endpoints/avaya/overview.md",
+    "docs/admin/identity/sso.md",
+    "docs/admin/identity",
+    "docs/admin/login/loginmsg.md",
+    "docs/community/discord.md",
+    "docs/user/web/supportedbrowsers.md",
+    "docs/introduction/whatis.md",
     "docs/admin/endpoints/freepbx/connecting.md",
     "docs/admin/endpoints/polycom/overview.md",
+    "docs/admin/endpoints/avaya/overview.md",
+    "docs/admin/endpoints/anetd/overview.md",
+    "docs/admin/endpoints/avaya/ipoffice.md",
     "docs/admin/client/chrome/overview.md",
     "docs/admin/client/chrome",
     "docs/admin/endpoints/cisco/3psiplua.md",
@@ -198,7 +205,6 @@
     "docs/admin/endpoints/cisco/enterprise/createmanual.md",
     "docs/admin/endpoints/cisco/enterprise/cucm.md",
     "docs/admin/endpoints/freepbx",
-    "docs/admin/endpoints/anetd/overview.md",
     "docs/admin/endpoints/avaya",
     "docs/admin/endpoints/anetd/visual.md",
     "docs/admin/endpoints/anetd/multicast.md",
@@ -223,16 +229,9 @@
     "docs/admin/endpoints/anetd/connect.md",
     "docs/admin/endpoints/cisco/mpp/grouppaging.md",
     "docs/admin/endpoints/anetd",
-    "docs/community/discord.md",
-    "docs/admin/messages/intro.md",
-    "docs/admin/messages/tts.md",
-    "docs/admin/messages/variables.md",
-    "docs/admin/gettingstarted/install/linux-man.md",
-    "docs/admin/gettingstarted/install/linux.md",
     "docs/admin/gettingstarted/install",
     "docs/admin/gettingstarted",
     "docs/admin/login",
-    "docs/admin/users",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
