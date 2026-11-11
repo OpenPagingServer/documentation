@@ -18,7 +18,7 @@ In `Hostname or IP Address` (or `IPv4 Address`), enter the hostname or IP addres
 
 If you select `Disable status checking` (or `Do not check status of device`), the status of the device will not be checked in the background. Open Paging Server will always attempt to send messages to this device even it it's offline or unable to receive messages. Disabling checking of status is not recommended unless you have **VERY** little resources because Open Paging Server won't start a broadcast until all devices are ready. If tons of unchecked devices are offline, it can delay a critical message for online devices by up to 5-15 seconds. As such, Leaving checking enabled ensures that broadcasts can be sent reliably.
 
-#### Available modes for `Audio`:
+#### Available modes for `Audio`
 
 >**Multicast (Recommended when available):** Sends a single RTP stream for all phones receiving a page. Uses less server resources, less delay. Requires multicast compatible network infrastructure. High amount of packet loss on weak WLAN. Does not usually transmit over NAT/WAN & VPN tunnels. Enable IGMP on your network switch(es) for the best results.
   >
@@ -34,7 +34,7 @@ If you select `Disable status checking` (or `Do not check status of device`), th
   >
   **Disabled:** Audio will not be sent to this telephone.
 
-#### Available modes for `Visual`:
+#### Available modes for `Visual`
 
 >**Image**:
 >The short message is displayed on a colored background. If the message as an icon, it will also be shown. You can view the long message using the `Details` softkey. On the details page, press `Info` to view message metadata (such as sender, time sent and of expiration, and product name). This mode makes it easy to read the screen from a distance. (Uses `CiscoIPPhoneImage` )![](Cisco9861-LockdownVisual.gif)
