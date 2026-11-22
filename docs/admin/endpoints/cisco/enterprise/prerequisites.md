@@ -1,4 +1,4 @@
-# Pre-requisites
+# Pre-requisites for Cisco IP Phones on Open Paging Server
 
 ## Network structure
 
