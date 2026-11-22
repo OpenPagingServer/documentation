@@ -40,6 +40,8 @@ In text mode, both the short and long messages are visible on the screen. (Short
 
 **None**: No visual message with be displayed on this telephone.
 
+## Volume
+
 In `Volume`, you can force the phone to play broadcasts at a certain volume. If volume in a message is set, that will override this value.
 
 

@@ -1,5 +1,5 @@
 
-# Managing existing phones
+# Managing existing Cisco IP Phones on Open Paging Server
 
 Once you have added a phone in Open Paging Server, you can go to `Manage Endpoints` to view it's status, edit, or delete it.
 
@@ -16,12 +16,8 @@ In list, you'll see your phones displayed along with it's name, MAC address, and
 
 `Offline` shows if the phone is not reachable or Web Access is disabled. If your phone is synced from UCM, it will likely not show an IP address because it's not registered to CUCM. If the phone is synced from UCM, shows an IP address and is offline, either `Web Access` is disabled, or Open Paging Server cannot reach it despite being registered to CUCM.
 
-Click the trash icon to remove the phone. If the phone is synced, this will only hide the phone. You can go to `Manage Endpoint Modules` > `Cisco IP Phones` > `Show hidden synced phones` to unhide hidden phones.
+Click the trash icon to remove the phone. If the phone is synced, this will only hide the phone and it will be unavailable as an endpoint. You can go to `Manage Endpoint Modules` > `Cisco IP Phones` > `Show hidden synced phones` to unhide hidden phones.
 
-Click the edit icon to manage the phones settings
-
-`Current status` shows the phones status
-
-
+For more information on available settings, refer to the settings page.
 
 When you are done, click `Save Cisco Enterprise Endpoint`. The changes are now saved.
