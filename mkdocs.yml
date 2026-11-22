@@ -72,6 +72,7 @@ nav:
                   - Connecting to CUCM: admin/endpoints/cisco/enterprise/cucm.md
                   - Manually adding phones: admin/endpoints/cisco/enterprise/createmanual.md
                   - Managing existing phones: admin/endpoints/cisco/enterprise/managephones.md
+                  - Settings: admin/endpoints/cisco/enterprise/settings.md
                   - Troubleshooting: admin/endpoints/cisco/enterprise/troubleshooting.md
               - Multiplatform/SPA (SPA/MPP/3PCC/Webex):
                   - Overview: admin/endpoints/cisco/mpp/index.md
